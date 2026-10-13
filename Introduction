@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+background-color: #F9E7E7;
+margin: 0;
+}
+
+#container {
+display: flex;
+flex-wrap: wrap;
+align-items: flex-start;
+padding: 20px;
+}
+
+#content-left {
+flex: 1;
+min-width: 500px;
+margin-right: 50px;
+}
+
+#content-right {
+width: 200px;
+text-align: center;
+}
+
+#content-bottom {
+flex-basis: 100%;
+margin-top: 30px;
+margin-left: 50px;
+}
+
+h1 {
+color: #A09299;
+margin: 50px;
+}
+
+h2 {
+color: #A09299;
+margin: 0 30px 30px;
+font-weight: bold;
+}
+
+h4 {
+color: #A07E94;
+margin: 0 30px 30px;
+}
+
+img {
+border: 1px solid #C49792;
+max-width: 100%;
+height: auto;
+}
+
+.text-1 {
+font-family: Georgia, serif;
+font-size: 20px;
+font-weight: bold;
+line-height: 24px;
+margin: 50px;
+color: #EAA286;
+}
+
+.text-2 {
+font-family: Georgia, serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin: 50px;
+color: #A07E94;
+padding-bottom: 10px;
+border-bottom: 2px solid #000000;
+}
+
+.content-block {
+display: flex;
+flex-direction: column;
+}
+</style>
+</head>
+<body>
+
+<div id="container">
+
+<div id="content-left">
+
+<div class="content-block">
+<h1>Introduction « 导言 »</h1>
+
+<div class="text-1">
+Why we made this.
+</div>
+
+<div class="text-2">
+It is safe to say that students are unhappy with the school's future and current policies, but they don't have a source to express it. We made this website as well as surveys to show to the other students that the worry and anger you feel is shared, and you can express it in our various surveys. We hope that this action will lead to the Administration or Management to listen to our objections and listen to our concerns when making decisions.
+</div>
+</div>
+
+<div class="content-block">
+<div class="text-1">
+为什么我们做这个[转换]
+</div>
+
+<div class="text-2">
+可以肯定的是，学生对学校的未来和当前管理策略不满意，但他们没有地方去表达它。我们做了这个网站和调查，以向其他学生表明，你感到的担心和愤怒是共有的，你可以在我们的各种调查中表达它。我们希望，这一行动能够让学校执行管理倾听我们的反对意见，在做决定前听取我们的担忧
+</div>
+</div>
+
+</div>
+
+<div id="content-right">
+<img src="https://privateinternationalschoolfair.com/__file/01HEVTBDJCVGFPKXXTV4YQY2VT">
+
+<h2>Make Mahsa Great Again</h2>
+
+<h4><i>Hoping to improve Our school</i></h4>
+
+<h4><a href="C:\Users\User\OneDrive\Desktop\Index.html">Introduction « 导言 »</a></h4>
+<h4><a href="https://mmga.straw.page">Talk to us! « 与我们交谈！»</a></h4> 
+<h4><a href="C:\Users\User\OneDrive\Desktop\AnU.html">Updates/Articles «更新/文章»</a></h4>
+<h4><a href="C:\Users\User\OneDrive\Desktop\Survey.html">Surveys</a></h4>
+<h4><a href="C:\Users\User\OneDrive\Desktop\Info.html">Info</a></h4>
+</div>
+
+<div id="content-bottom">
+<button><a href= "C:\Users\User\OneDrive\Desktop\main.html">Go Back</a></button>
+</div>
+
+</div>
+
+</body>
+</html>
+
+
+
