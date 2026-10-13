@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+body {
+background-color: #F9E7E7;
+margin: 10;
+}
+
+h1 {
+color: #A09299;
+margin: 50px;
+}
+
+h2 {
+color: #A09299;
+margin: 0 30px 30px;
+font-weight: bold;
+}
+
+h4 {
+color: #A07E94;
+margin: 0 30px 30px;
+}
+
+img {
+border: 1px solid #C49792;
+max-width: 100%;
+height: auto;
+}
+#content-centre {
+width: 1250px;
+text-align: center;
+}
+</style>
+<body>
+
+<div id="content-centre">
+<img src="https://privateinternationalschoolfair.com/__file/01HEVTBDJCVGFPKXXTV4YQY2VT">
+
+<h2>Make Mahsa Great Again</h2>
+
+<h4><i>Hoping to improve Our school</i></h4>
+
+<h4><a href="Index.html">Introduction « 导言 »</a></h4>
+<h4><a href="https://mmga.straw.page">Talk to us! « 与我们交谈！»</a></h4> 
+<h4><a href="AnU.html">Updates/Articles «更新/文章»</a></h4>
+<h4><a href="Survey.html">Surveys</a></h4>
+<h4><a href="Info.html">Info</a></h4>
+</div>
+
+</div>
+</body>
+</html>
